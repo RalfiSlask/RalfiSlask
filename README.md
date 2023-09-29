@@ -30,29 +30,30 @@ Matthias is a software developer and poker player from Stockholm, Sweden. He has
 * [Twitter](https://twitter.com/ralfislask)
 * [Email](mailto:ralfislask@example.com)
 
-## Styling
-
-The following CSS code can be used to style the README:
+## CSS
 
 ```css
 body {
   font-family: Roboto, sans-serif;
   font-size: 16px;
+  line-height: 1.5;
+  color: #333;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
 }
 
 h1 {
   font-size: 24px;
-  font-weight: bold;
 }
 
 h2 {
   font-size: 20px;
-  font-weight: bold;
 }
 
 h3 {
   font-size: 18px;
-  font-weight: bold;
 }
 
 a {
@@ -65,5 +66,11 @@ a:hover {
   text-decoration: underline;
 }
 
+.github-readme-stats img {
+  width: 100%;
+}
 
-This CSS code will give the README a simple and clean look. You can customize the CSS to match your own personal style.
+
+This CSS code will give the README a clean and modern look. The fonts are easy to read and the colors are not too harsh. The GitHub Stats image is also resized to fit the width of the README.
+
+You can customize the CSS to match your own personal style. For example, you can change the font family, font size, line height, and colors. You can also add additional CSS to style other elements of the README, such as lists, tables, and code blocks.
