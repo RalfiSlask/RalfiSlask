@@ -14,3 +14,6 @@ Software Developer | Poker Player
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
 
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfislask&layout=compact&theme=radical)
+
