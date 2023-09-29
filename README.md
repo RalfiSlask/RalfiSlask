@@ -16,10 +16,12 @@ Software Developer | Poker Player
   <!-- GitHub Stats -->
   <div style="flex: 1; margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <h3 style="color: #ffd700;">GitHub Stats</h3>
   </div>
   
   <!-- Top Languages -->
   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfislask&layout=compact&theme=radical" alt="Top Langs" />
+    <h3 style="color: #ffd700;">Top Languages</h3>
   </div>
 </div>
