@@ -21,7 +21,7 @@ Software Developer | Open Source Enthusiast | Tech Blogger
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
 
 <!-- Visitors -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=johndoe.johndoe)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ralfislasks.ralfislask)
 
 <!-- Footer -->
 <p align="center">
