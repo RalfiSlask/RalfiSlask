@@ -14,7 +14,5 @@ Software Developer | Poker Player
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
 
-<!-- Visitors -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=ralfislasks.ralfislask)
 
 
