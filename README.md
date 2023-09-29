@@ -11,7 +11,15 @@ Software Developer | Poker Player
 - 🌐 Web Development: HTML, CSS, Tailwind CSS, React
 - 🛠️ Tools: Git, Vite, Figma
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfislask&layout=compact&theme=radical)
-
-
+<!-- GitHub Stats and Top Langs -->
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical" alt="GitHub Stats" />
+  </div>
+  
+  <!-- Top Languages -->
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ralfislask&layout=compact&theme=radical" alt="Top Langs" />
+  </div>
+</div>
