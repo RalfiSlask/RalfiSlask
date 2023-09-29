@@ -6,17 +6,18 @@
 
 Software Developer | Poker Player
 
-## Skills
-- 💻 Programming: Javascript, Typescript
-- 🌐 Web Development: HTML, CSS, Tailwind CSS, React
-- 🛠️ Tools: Git, Vite, Figma
-
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api/username/ralfislask?show=icons&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
 
 ## About
 
 Matthias is a software developer and poker player from Stockholm, Sweden. He has been developing web applications for over 5 years and is passionate about using technology to solve problems. Matthias is also an avid poker player and has won several tournaments.
+
+## Skills
+
+* 💻 Programming: Javascript, Typescript
+* 🌐 Web Development: HTML, CSS, Tailwind CSS, React
+* 🛠️ Tools: Git, Vite, Figma
 
 ## Projects
 
@@ -28,3 +29,41 @@ Matthias is a software developer and poker player from Stockholm, Sweden. He has
 * [LinkedIn](https://www.linkedin.com/in/ralfislask/)
 * [Twitter](https://twitter.com/ralfislask)
 * [Email](mailto:ralfislask@example.com)
+
+## Styling
+
+The following CSS code can be used to style the README:
+
+```css
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #333;
+  text-decoration: underline;
+}
+
+
+This CSS code will give the README a simple and clean look. You can customize the CSS to match your own personal style.
