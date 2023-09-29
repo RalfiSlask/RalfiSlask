@@ -12,8 +12,6 @@ Software Developer | Poker Player
 - 🛠️ Tools: Git, Vite, Figma
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfislask&layout=compact&theme=radical)
 
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ralfislask&layout=compact&theme=radical)
 
