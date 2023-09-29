@@ -1,24 +1,16 @@
 <!-- Your Name -->
-<h1 style="color: #6b48ff; font-size: 65px;">Matthias Nilsson</h1>
+# Matthias Nilsson
 
-<p style="font-size: 18px;">Software Developer | Poker Player</p>
+Software Developer | Poker Player
 
-<!-- Social Media Profiles -->
-<div style="margin-top: 20px;">
-    <a href="https://github.com/Ralfislask" style="text-decoration: none; margin-right: 20px;">
-        <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub" />
-    </a>
-    <a href="https://www.frontendmentor.io/profile/RalfiSlask" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/-Frontend%20Mentor-orange?style=flat-square&logo=frontendmentor" alt="Frontend Mentor" />
-    </a>
-</div>
+[![GitHub](https://img.shields.io/badge/-Ralfislask-black?style=flat-square&logo=github&link=https://github.com/johndoe)](https://github.com/Ralfislask)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-orange?style=flat-square&logo=frontendmentor&link=https://www.frontendmentor.io/profile/RalfiSlask)](https://www.frontendmentor.io/profile/RalfiSlask)
 
 ## Skills
-<ul>
-    <li>💻 Programming: JavaScript, TypeScript</li>
-    <li>🌐 Web Development: HTML, CSS, Tailwind CSS, React</li>
-    <li>🛠️ Tools: Git, Vite, Figma</li>
-</ul>
+- 💻 Programming: Javascript, Typescript
+- 🌐 Web Development: HTML, CSS, Tailwind CSS, React
+- 🛠️ Tools: Git, Vite, Figma
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=dracula" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
+
