@@ -3,16 +3,17 @@
 
 Software Developer | Poker Player
 
-[![GitHub](https://img.shields.io/badge/-Ralfislask-black?style=flat-square&logo=github&link=https://github.com/johndoe)](https://github.com/Ralfislask)
+<!-- Social Media Profiles -->
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Ralfislask)](https://github.com/Ralfislask)
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-orange?style=flat-square&logo=frontendmentor&link=https://www.frontendmentor.io/profile/RalfiSlask)](https://www.frontendmentor.io/profile/RalfiSlask)
 
 ## Skills
-- 💻 Programming: Javascript, Typescript
+- 💻 Programming: JavaScript, TypeScript
 - 🌐 Web Development: HTML, CSS, Tailwind CSS, React
 - 🛠️ Tools: Git, Vite, Figma
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=dracula)
 
 
 
