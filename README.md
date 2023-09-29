@@ -1,21 +1,15 @@
 <!-- Your Name -->
 # Matthias Nilsson
 
-Software Developer | Open Source Enthusiast | Tech Blogger
+Software Developer | Poker Player
 
-[![Linkedin](https://img.shields.io/badge/-John%20Doe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johndoe/)](https://www.linkedin.com/in/johndoe/)
-[![GitHub](https://img.shields.io/badge/-johndoe-black?style=flat-square&logo=github&link=https://github.com/johndoe)](https://github.com/johndoe)
-[![Twitter](https://img.shields.io/badge/-johndoe-blue?style=flat-square&logo=twitter&link=https://twitter.com/johndoe)](https://twitter.com/johndoe)
+[![GitHub](https://img.shields.io/badge/-ralfislask-black?style=flat-square&logo=github&link=https://github.com/johndoe)](https://github.com/ralfislask)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-orange?style=flat-square&logo=frontendmentor&link=https://www.frontendmentor.io/profile/RalfiSlask)](https://www.frontendmentor.io/profile/RalfiSlask)
 
 ## Skills
-- 💻 Programming: Python, JavaScript, Java
+- 💻 Programming: Javascript, Typescript
 - 🌐 Web Development: HTML, CSS, React
-- 🛠️ Tools: Git, VS Code, Docker
-
-<!-- My Projects -->
-## Projects
-- [Project 1](https://github.com/johndoe/project1): Short description of Project 1.
-- [Project 2](https://github.com/johndoe/project2): Short description of Project 2.
+- 🛠️ Tools: Git, 
 
 <!-- GitHub Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
@@ -25,6 +19,6 @@ Software Developer | Open Source Enthusiast | Tech Blogger
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://github.com/johndoe/johndoe/raw/main/images/footer.png" width="400">
+  <img src="https://github.com/ralfislask/ralfislask/raw/main/images/footer.png" width="400">
 </p>
 
