@@ -17,8 +17,4 @@ Software Developer | Poker Player
 <!-- Visitors -->
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ralfislasks.ralfislask)
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://github.com/ralfislask/ralfislask/raw/main/images/footer.png" width="400">
-</p>
 
