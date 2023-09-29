@@ -1,5 +1,5 @@
 <!-- Your Name -->
-<h1 style="color: #6b48ff; font-size: 36px;">Matthias Nilsson</h1>
+<h1 style="color: #6b48ff; font-size: 65px;">Matthias Nilsson</h1>
 
 <p style="font-size: 18px;">Software Developer | Poker Player</p>
 
