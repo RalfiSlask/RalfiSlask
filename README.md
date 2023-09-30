@@ -10,7 +10,3 @@ Software Developer | Poker Player
 - 💻 Programming: Javascript, Typescript
 - 🌐 Web Development: HTML, CSS, Tailwind CSS, React
 - 🛠️ Tools: Git, Vite, Figma
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ralfislask&show_icons=true&theme=radical)
-
