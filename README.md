@@ -25,6 +25,6 @@
 
 <div align="left">
 
-![Matthias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfislask&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FF4500&bg_color=30,2c3e50,8e44ad&hide_border=true&border_radius=15&layout=compact)
+![Matthias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfislask&show_icons=true&title_color=FFFFFF&text_color=d4d4d4&icon_color=4CAF50&bg_color=0E1117&hide_border=true&border_radius=15&layout=compact)
 
 </div>
