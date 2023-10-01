@@ -25,6 +25,6 @@
 
 <div align="left">
 
-![Matthias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfislask&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ac64ad)
+![Matthias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfislask&show_icons=true&bg_color=30,000000,ffd700&title_color=ffd700&text_color=ffd700&icon_color=ffd700&border_color=000000)
 
 </div>
