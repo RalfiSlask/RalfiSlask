@@ -23,8 +23,8 @@
 
 ### 📊 **GitHub Stats**
 
-<div align="center">
-  
-[![Matthias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfislask&show_icons=true&theme=radical)](https://github.com/RafliSlask/github-readme-stats)
+<div align="left">
+
+![Matthias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfislask&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ac64ad)
 
 </div>
