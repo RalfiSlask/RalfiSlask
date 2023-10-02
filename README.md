@@ -2,7 +2,7 @@
 
 ## 🃏 Matthias Nilsson 🎲
 
-### `Aspiring Software Developer` | `Poker Player`
+### `Software Developer` | `Poker Player`
 
 <br>
 
