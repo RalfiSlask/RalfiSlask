@@ -4,6 +4,8 @@
 
 ### `Software Developer`
 
+## Former professional pokerplayer who has decided to pursue software development, specialized in frontend :smile:
+
 <br>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/Ralfislask)](https://github.com/Ralfislask)
