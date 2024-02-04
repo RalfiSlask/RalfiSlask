@@ -1,10 +1,13 @@
-<div align="center">
+<div align="left">
 
 ## 🃏 Matthias Nilsson 🎲
 
+
 ### `Software Developer`
 
-## Former professional pokerplayer who has decided to pursue software development, specialized in frontend :smile:
+* <small> Former professional pokerplayer who has decided to pursue software development, specialized in frontend :smile: </small>
+* Working tech-stack: React, Tailwind, Sass, Vite
+* Currently learning: Vue
 
 <br>
 
