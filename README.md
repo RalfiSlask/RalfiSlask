@@ -5,9 +5,9 @@
 
 ### `Software Developer`
 
-* <small> Former professional pokerplayer who has decided to pursue software development, specialized in frontend :smile: </small>
-* Working tech-stack: React, Tailwind, Sass, Vite
-* Currently learning: Vue
+* <small> Former professional poker player who has decided to pursue software development, specialized in frontend :smile: </small>
+* Working tech-stack: React, Tailwind, Sass, Vite 💻
+* Currently learning: Vue 📚
 
 <br>
 
