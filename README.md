@@ -35,10 +35,3 @@ Please visit my portfolio website:
 
 ---
 
-### 📊 **GitHub Stats**
-
-<div align="left">
-
-![Matthias's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ralfislask&show_icons=true&title_color=FFFFFF&text_color=d4d4d4&icon_color=4CAF50&bg_color=0E1117&hide_border=true&border_radius=15&layout=compact)
-
-</div>
