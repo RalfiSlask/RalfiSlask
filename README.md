@@ -6,7 +6,7 @@
 ### `Software Developer`
 
 * <small> Former professional poker player who has decided to pursue software development, specialized in frontend :smile: </small>
-* Working tech-stack: React w/ Typescript, Tailwind, Sass, Vite, Vue 💻
+* Working tech-stack: Next.Js, Typescript, Tailwind, Sass, Vue 💻
 
 <br>
 
